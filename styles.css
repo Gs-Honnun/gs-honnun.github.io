@@ -21,8 +21,8 @@ h1.hidden {
 
 /* containers */
 
-.container-fluid{
-    padding: 7% 15%;
+.container-fluid-sections{
+    padding: 7% 13%;
 }
 
 /* Sections */
@@ -41,10 +41,14 @@ h1.hidden {
 }
 
 /* Mail to and phone number color */
-#3F2ABB
-.link-mail-email-color{
+a.link-mail-email-color{
     color: #3F2ABB;
 }
+
+a.link-mail-email-color:hover{
+    color: #291B79;
+}
+
 /* Footer Section */
 
 .social-icon {
